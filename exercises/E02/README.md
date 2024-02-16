@@ -232,7 +232,7 @@ Show-LabDeploymentSummary -Detailed
 -   Rozsah IP adres přidělených z *Default switch* se může od níže
     uvedeného rozsahu lišit.
 
--   Nepřipojené síťové daptéry je doporučeno zakázat uvnitř VM.
+-   Nepřipojené síťové adaptéry je doporučeno zakázat uvnitř VM.
 
 ## **Lab LS00 -- konfigurace virtuálních stanic**
 
